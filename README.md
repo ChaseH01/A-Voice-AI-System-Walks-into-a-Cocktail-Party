@@ -29,4 +29,4 @@ The paper includes a qualitative analysis of **Google Gemini Live** and **OpenAI
 
 ## 📂 Project Structure
 * `Paper.pdf`: The full sociological analysis and research findings.
-* `Works_Cited.md`: A comprehensive list of sociological and technical references used.
+* `Works_Cited.pdf`: A comprehensive list of sociological and technical references used.
